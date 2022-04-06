@@ -23,16 +23,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="qtTCP.qrc">
+    <QtRcc Include="qtTcpSever.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
-    <QtUic Include="qtTCP.ui">
+    <QtUic Include="qtTcpSever.ui">
       <Filter>Form Files</Filter>
     </QtUic>
-    <QtMoc Include="qtTCP.h">
+    <QtMoc Include="qtTcpSever.h">
       <Filter>Header Files</Filter>
     </QtMoc>
-    <ClCompile Include="qtTCP.cpp">
+    <ClCompile Include="qtTcpSever.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
